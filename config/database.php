@@ -15,7 +15,7 @@ return [
     // 服务器地址
     'hostname'        => '127.0.0.1',
     // 数据库名
-    'database'        => 'pdd_svip10000_co',
+    'database'        => 'tppdd',
     // 用户名
     'username'        => 'liuhuanguang',
     // 密码
