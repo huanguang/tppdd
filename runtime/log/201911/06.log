@@ -1,0 +1,128 @@
+---------------------------------------------------------------
+[2019-11-06T18:06:47+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：1.075532s] [吞吐率：0.93req/s] [内存消耗：4,421.45kb] [文件加载：117]
+[ error ] [200]登录太频繁，请稍后再试[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T18:06:56+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.691182s] [吞吐率：1.45req/s] [内存消耗：4,422.68kb] [文件加载：117]
+[ error ] [200]登录太频繁，请稍后再试[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T18:09:55+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.655184s] [吞吐率：1.53req/s] [内存消耗：4,422.68kb] [文件加载：117]
+[ error ] [200]登录太频繁，请稍后再试[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T18:21:54+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.906486s] [吞吐率：1.10req/s] [内存消耗：5,393.95kb] [文件加载：155]
+[ error ] [403]Client error: `POST https://mobile.yangkeduo.com/proxy/api/login?pdduid=0` resulted in a `403 Forbidden` response[/vagrant/pdd/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113]
+---------------------------------------------------------------
+[2019-11-06T18:23:13+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.739925s] [吞吐率：1.35req/s] [内存消耗：5,393.95kb] [文件加载：155]
+[ error ] [403]Client error: `POST https://mobile.yangkeduo.com/proxy/api/login?pdduid=0` resulted in a `403 Forbidden` response[/vagrant/pdd/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113]
+---------------------------------------------------------------
+[2019-11-06T18:23:29+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.701608s] [吞吐率：1.43req/s] [内存消耗：5,393.95kb] [文件加载：155]
+[ error ] [403]Client error: `POST https://mobile.yangkeduo.com/proxy/api/login?pdduid=0` resulted in a `403 Forbidden` response[/vagrant/pdd/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113]
+---------------------------------------------------------------
+[2019-11-06T18:24:10+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.630723s] [吞吐率：1.59req/s] [内存消耗：5,393.99kb] [文件加载：155]
+[ error ] [403]Client error: `POST https://mobile.yangkeduo.com/proxy/api/login?pdduid=0` resulted in a `403 Forbidden` response[/vagrant/pdd/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113]
+---------------------------------------------------------------
+[2019-11-06T18:25:09+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.767433s] [吞吐率：1.30req/s] [内存消耗：5,393.99kb] [文件加载：155]
+[ error ] [403]Client error: `POST https://mobile.yangkeduo.com/proxy/api/login?pdduid=0` resulted in a `403 Forbidden` response[/vagrant/pdd/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113]
+---------------------------------------------------------------
+[2019-11-06T19:15:02+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.689818s] [吞吐率：1.45req/s] [内存消耗：5,009.40kb] [文件加载：135]
+[ error ] [200]登录太频繁，请稍后再试[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T19:16:00+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.659184s] [吞吐率：1.52req/s] [内存消耗：5,009.40kb] [文件加载：135]
+[ error ] [200]登录太频繁，请稍后再试[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T19:16:32+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.694000s] [吞吐率：1.44req/s] [内存消耗：5,008.89kb] [文件加载：135]
+[ error ] [200]错误的请求参数[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T19:16:51+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.688437s] [吞吐率：1.45req/s] [内存消耗：5,009.40kb] [文件加载：135]
+[ error ] [200]登录太频繁，请稍后再试[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T19:21:15+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.708912s] [吞吐率：1.41req/s] [内存消耗：5,009.40kb] [文件加载：135]
+[ error ] [200]登录太频繁，请稍后再试[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T19:21:42+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.800676s] [吞吐率：1.25req/s] [内存消耗：5,008.98kb] [文件加载：135]
+[ error ] [200]错误的请求参数[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T19:21:52+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.652746s] [吞吐率：1.53req/s] [内存消耗：5,009.32kb] [文件加载：135]
+[ error ] [200]登录太频繁，请稍后再试[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T19:37:30+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：1.695545s] [吞吐率：0.59req/s] [内存消耗：5,093.91kb] [文件加载：138]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'access_token' cannot be null[/vagrant/pdd/thinkphp/library/think/db/Connection.php:764]
+---------------------------------------------------------------
+[2019-11-06T19:37:48+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：1.559631s] [吞吐率：0.64req/s] [内存消耗：5,094.19kb] [文件加载：138]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'access_token' cannot be null[/vagrant/pdd/thinkphp/library/think/db/Connection.php:764]
+---------------------------------------------------------------
+[2019-11-06T19:40:57+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：1.532079s] [吞吐率：0.65req/s] [内存消耗：5,094.19kb] [文件加载：138]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'access_token' cannot be null[/vagrant/pdd/thinkphp/library/think/db/Connection.php:764]
+---------------------------------------------------------------
+[2019-11-06T19:42:36+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.881049s] [吞吐率：1.14req/s] [内存消耗：5,023.61kb] [文件加载：135]
+[ error ] [200]调用服务失败[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T19:42:48+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.569169s] [吞吐率：1.76req/s] [内存消耗：5,023.67kb] [文件加载：135]
+[ error ] [200]登录太频繁，请稍后再试[/vagrant/pdd/application/lib/pinduoduo/PinduoduoBase.php:22]
+---------------------------------------------------------------
+[2019-11-06T19:56:44+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：1.070769s] [吞吐率：0.93req/s] [内存消耗：5,119.26kb] [文件加载：137]
+[ error ] [8]未定义数组索引: access_token[/vagrant/pdd/application/system/admin/Pinduoduo.php:962]
+---------------------------------------------------------------
+[2019-11-06T22:19:51+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：20.722817s] [吞吐率：0.05req/s] [内存消耗：5,094.36kb] [文件加载：138]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'access_token' cannot be null[/vagrant/pdd/thinkphp/library/think/db/Connection.php:764]
+---------------------------------------------------------------
+[2019-11-06T22:20:12+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：20.670321s] [吞吐率：0.05req/s] [内存消耗：5,094.63kb] [文件加载：138]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'access_token' cannot be null[/vagrant/pdd/thinkphp/library/think/db/Connection.php:764]
+---------------------------------------------------------------
+[2019-11-06T22:21:43+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：20.510894s] [吞吐率：0.05req/s] [内存消耗：5,094.61kb] [文件加载：138]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'access_token' cannot be null[/vagrant/pdd/thinkphp/library/think/db/Connection.php:764]
+---------------------------------------------------------------
+[2019-11-06T22:23:37+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：20.723607s] [吞吐率：0.05req/s] [内存消耗：4,696.38kb] [文件加载：127]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'access_token' cannot be null[/vagrant/pdd/thinkphp/library/think/db/Connection.php:764]
+---------------------------------------------------------------
+[2019-11-06T22:24:33+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：20.515720s] [吞吐率：0.05req/s] [内存消耗：4,684.26kb] [文件加载：127]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'access_token' cannot be null[/vagrant/pdd/thinkphp/library/think/db/Connection.php:764]
+---------------------------------------------------------------
+[2019-11-06T22:25:34+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：20.612811s] [吞吐率：0.05req/s] [内存消耗：4,684.28kb] [文件加载：127]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'access_token' cannot be null[/vagrant/pdd/thinkphp/library/think/db/Connection.php:764]
+---------------------------------------------------------------
+[2019-11-06T22:44:39+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：21.815397s] [吞吐率：0.05req/s] [内存消耗：5,285.25kb] [文件加载：148]
+[ error ] [0]cURL error 6: Could not resolve host: api.pinduoduo.com; Unknown error (see https://curl.haxx.se/libcurl/c/libcurl-errors.html)[/vagrant/pdd/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:200]
+---------------------------------------------------------------
+[2019-11-06T22:48:26+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：21.495187s] [吞吐率：0.05req/s] [内存消耗：5,287.30kb] [文件加载：148]
+[ error ] [0]cURL error 6: Could not resolve host: api.pinduoduo.com; Unknown error (see https://curl.haxx.se/libcurl/c/libcurl-errors.html)[/vagrant/pdd/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:200]
+---------------------------------------------------------------
+[2019-11-06T22:53:03+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：0.703888s] [吞吐率：1.42req/s] [内存消耗：5,201.63kb] [文件加载：144]
+[ error ] [0]SSL CA bundle not found: false[/vagrant/pdd/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:352]
+---------------------------------------------------------------
+[2019-11-06T22:53:49+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：21.317306s] [吞吐率：0.05req/s] [内存消耗：5,287.70kb] [文件加载：148]
+[ error ] [0]cURL error 6: Could not resolve host: api.pinduoduo.com; Unknown error (see https://curl.haxx.se/libcurl/c/libcurl-errors.html)[/vagrant/pdd/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:200]
+---------------------------------------------------------------
+[2019-11-06T22:59:56+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/users_add.html
+[运行时间：21.410668s] [吞吐率：0.05req/s] [内存消耗：5,287.70kb] [文件加载：148]
+[ error ] [0]cURL error 6: Could not resolve host: api.pinduoduo.com; Unknown error (see https://curl.haxx.se/libcurl/c/libcurl-errors.html)[/vagrant/pdd/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:200]

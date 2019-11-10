@@ -1,0 +1,28 @@
+---------------------------------------------------------------
+[2019-11-05T09:28:34+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/get_goods_info.html
+[运行时间：0.849354s] [吞吐率：1.18req/s] [内存消耗：4,465.53kb] [文件加载：114]
+[ error ] [user match] 用户已超时 [user_id] 2905
+---------------------------------------------------------------
+[2019-11-05T09:28:47+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/get_goods_info.html
+[运行时间：0.661723s] [吞吐率：1.51req/s] [内存消耗：4,465.69kb] [文件加载：114]
+[ error ] [user match] 用户已超时 [user_id] 2905
+---------------------------------------------------------------
+[2019-11-05T09:39:53+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/get_goods_info.html
+[运行时间：0.753503s] [吞吐率：1.33req/s] [内存消耗：4,465.66kb] [文件加载：114]
+[ error ] [user match] 用户已超时 [user_id] 2905
+---------------------------------------------------------------
+[2019-11-05T09:43:25+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/get_goods_info.html
+[运行时间：0.595949s] [吞吐率：1.68req/s] [内存消耗：4,465.81kb] [文件加载：114]
+[ error ] [user match] 用户已超时 [user_id] 2905
+---------------------------------------------------------------
+[2019-11-05T09:49:51+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/get_goods_info.html
+[运行时间：0.621999s] [吞吐率：1.61req/s] [内存消耗：4,465.81kb] [文件加载：114]
+[ error ] [user match] 用户已超时 [user_id] 2905
+---------------------------------------------------------------
+[2019-11-05T09:52:14+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/get_goods_info.html
+[运行时间：0.588065s] [吞吐率：1.70req/s] [内存消耗：4,466.11kb] [文件加载：114]
+[ error ] [user match] 用户已超时 [user_id] 2905
+---------------------------------------------------------------
+[2019-11-05T09:53:46+08:00] 192.168.33.1 POST www.pinduoduo.com/admin.php/system/pinduoduo/get_goods_info.html
+[运行时间：0.601244s] [吞吐率：1.66req/s] [内存消耗：4,466.16kb] [文件加载：114]
+[ error ] [user match] 用户已超时 [user_id] 2905

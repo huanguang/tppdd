@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[2019-11-04T22:41:43+08:00] 192.168.33.1 GET www.pinduoduo.com/
+[运行时间：0.324864s] [吞吐率：3.08req/s] [内存消耗：3,024.73kb] [文件加载：78]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pdd.pinduoduo_system_module' doesn't exist[/vagrant/pdd/thinkphp/library/think/db/Connection.php:687]
